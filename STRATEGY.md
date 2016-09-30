@@ -46,6 +46,7 @@ Re share on Wednesday and Friday (this one will boost the reads on Friday and du
 
 - Daily tips/tricks (images/gifs/links)
 - Interesting links (as many as you want)
+- Classy humor (as many memes as you want)
 
 ### Publish
 Daily
