@@ -6,7 +6,7 @@ That way the article is relatively short and enjoyable but also features good co
 ## Posts
 
 One big article per week, with at least 2 HTs (these should match the article's categories)
-Pinned in TW and FB profiles.
+Pinned in TW and FB profiles. Additionally we can publish a second post EOW.
 
 ### Topics
 
@@ -17,7 +17,7 @@ Pinned in TW and FB profiles.
 - Tutorials (step by step or screencast, with code examples and a github repository)
 
 ### Publish
-Sunday night or Monday morning.
+Sunday night or Monday morning. An additional article can be posted on Friday.
 
 #### Reach
 
@@ -32,7 +32,8 @@ Sunday night or Monday morning.
 - FB groups (webcr et al)
 - Relevant Slack chats
 
-Re share on Wednesday and Friday (this one will boost the reads on Friday and during the weekend)
+Re share on Wednesday and Friday (this one will boost the reads on Friday and during the weekend).
+If we choose to publish a new post on Friday then this re share won't happen to move the focus into the newly published article.
 
 #### Reach
 - Ninjadevs.io Twitter
